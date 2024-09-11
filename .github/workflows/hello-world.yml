@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: checkout to repo
         uses: actions/checkout@v4
-      - run: echo "hello world"
+      - run: echo "hello world my name is jalil"
   
